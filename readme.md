@@ -8,4 +8,5 @@
 ![Mech](./Images/Mech.PNG)
 
 ###
-- Section 1: Creating the Cockpit [![Mech](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
+- Section 1: Creating the Cockpit   
+[![Mech](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
