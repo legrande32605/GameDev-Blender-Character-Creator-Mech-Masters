@@ -8,4 +8,4 @@
 ![Mech](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Images/Mech.PNG)
 
 ###
-- [![Mech](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Renders/Creating%20the%20Cockpit.png)
+- ![Mech](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Renders/Thumb%20-%20Creating%20the%20Cockpit.png =178x100 )
