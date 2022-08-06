@@ -19,4 +19,6 @@
 - Part 4: Creating the Weapons   
 [![Mech - Legs](./Renders/Thumb%20-%20Creating%20the%20Weapons.png)](./Renders/Creating%20the%20Weapons.png)
 - Part 5: Posing the Mech   
-[![Mech - Legs](./Renders/Thumb%20-%20Posing%20the%20Mech.png)](./Renders/Posing%20the%20Mech.png)
+[![Mech - Posing](./Renders/Thumb%20-%20Posing%20the%20Mech.png)](./Renders/Posing%20the%20Mech.png)
+- Part 6: Smooth and Flat Shading   
+[![Mech - Smooth and Flat Shading](./Renders/Thumb%20-%20Smooth%20and%20Flat%20Shading.png)](./Renders/Smooth%20and%20Flat%20Shading.png)
