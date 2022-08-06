@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/static/v1?label=Status&message=Work%20In%20Progress&color=yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters)
 
-![Mech](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Images/Mech.PNG)
+![Mech](./Images/Mech.PNG)
 
 ###
-- ![Mech](https://github.com/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters/blob/master/Renders/Thumb%20-%20Creating%20the%20Cockpit.png =178x100 )
+- Section 1: Creating the Cockpit [![Mech](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
