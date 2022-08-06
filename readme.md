@@ -12,3 +12,5 @@
 [![Mech - Cockpit](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
 - Part 2: Creating the Body   
 [![Mech - Body](./Renders/Thumb%20-%20Creating%20the%20Body.png)](./Renders/Creating%20the%20Body.png)
+- Part 3: Creating the Legs   
+[![Mech - Legs](./Renders/Thumb%20-%20Creating%20the%20Legs.png)](./Renders/Creating%20the%20Legs.png)
