@@ -9,4 +9,6 @@
 
 ###
 - Section 1: Creating the Cockpit   
-[![Mech](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
+[![Mech - Cockpit](./Renders/Thumb%20-%20Creating%20the%20Cockpit.png)](./Renders/Creating%20the%20Cockpit.png)
+- Section 1: Creating the Body   
+[![Mech - Body](./Renders/Thumb%20-%20Creating%20the%20Body.png)](./Renders/Creating%20the%20Body.png)
