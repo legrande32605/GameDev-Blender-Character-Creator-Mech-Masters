@@ -22,3 +22,5 @@
 [![Mech - Posing](./Renders/Thumb%20-%20Posing%20the%20Mech.png)](./Renders/Posing%20the%20Mech.png)
 - Part 6: Smooth and Flat Shading   
 [![Mech - Smooth and Flat Shading](./Renders/Thumb%20-%20Smooth%20and%20Flat%20Shading.png)](./Renders/Smooth%20and%20Flat%20Shading.png)
+- Part 7: Adding Materials   
+[![Mech - Adding Materials](./Renders/Thumb%20-%20Adding%20Materials.png)](./Renders/Adding%20Materials.png)
