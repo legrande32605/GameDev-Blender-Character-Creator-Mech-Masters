@@ -2,12 +2,22 @@
 ## Mech Master
 
 ![Maintained by LeGrande32605](https://img.shields.io/static/v1?label=Maintained%20by&message=LeGrande32605&color=blue)
-![Status](https://img.shields.io/static/v1?label=Status&message=Work%20In%20Progress&color=yellow)
+![Status](https://img.shields.io/static/v1?label=Status&message=On%20Hold&color=inactive)
 ![Repo Size](https://img.shields.io/github/repo-size/legrande32605/GameDev-Blender-Character-Creator-Mech-Masters)
 
 ### Reference Image
 ![Mech](./Images/Mech.PNG)
 
+## Design Notes
+This was a follow through of the GameDev.tv course Blender Character Creator v2.0.  For the most part it was following through the sylabus to refresh skills outlined in this course.  Little inovation was used in this project and the final design is close to the reference image taken from the first course video.
+
+This project is not finalized and will be revisited at some point.  Ideas to work on are:
+- Varity of weapons
+- Varity of cockpits
+- Escape pods
+- Booster rockets
+- Better leg design
+- Overall sleeker design of components
 
 ## Results of Course Videos
 - Part 1: Creating the Cockpit   
