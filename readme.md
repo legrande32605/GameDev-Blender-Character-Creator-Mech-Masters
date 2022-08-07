@@ -24,3 +24,5 @@
 [![Mech - Smooth and Flat Shading](./Renders/Thumb%20-%20Smooth%20and%20Flat%20Shading.png)](./Renders/Smooth%20and%20Flat%20Shading.png)
 - Part 7: Adding Materials   
 [![Mech - Adding Materials](./Renders/Thumb%20-%20Adding%20Materials.png)](./Renders/Adding%20Materials.png)
+- Part 8: Camera and Background   
+[![Mech - Camera and Background](./Renders/Thumb%20-%20Camera%20and%20Background.png)](./Renders/Camera%20and%20Background.png)
