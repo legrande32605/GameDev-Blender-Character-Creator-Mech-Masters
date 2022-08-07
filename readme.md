@@ -26,3 +26,5 @@
 [![Mech - Adding Materials](./Renders/Thumb%20-%20Adding%20Materials.png)](./Renders/Adding%20Materials.png)
 - Part 8: Camera and Background   
 [![Mech - Camera and Background](./Renders/Thumb%20-%20Camera%20and%20Background.png)](./Renders/Camera%20and%20Background.png)
+- Part 9: Rotating Camera   
+[![Mech - Rotating Camera](./Renders/Thumb%20-%20Rotating%20Camera.gif)](./Renders/Rotating%20Camera.gif)
